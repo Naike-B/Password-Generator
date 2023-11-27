@@ -31,5 +31,6 @@ You'll be presented with a series of prompts to choose the password's criteria:
 ⬇️
 The password is randomly generated and displayed in the white box under **Your Password:**
 
-See an example below:
-![alt Password generator example](assets/images/Password-Generator-Usage.gif)
+This is what the application looks like:
+
+![alt Password generator example](assets/images/Password-generator-image.png)
