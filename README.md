@@ -18,18 +18,18 @@ While working on this application, I learned about a bunch of new things. The **
 N/A
 
 ## Usage
-To use this application, navigate to ![Password-Generator]()
-
-Click on the red button **Generate password**
-
+To use this application, navigate to [Password-Generator]() .
+⬇️
+From here, click on the red button **Generate password**.
+⬇️
 You'll be presented with a series of prompts to choose the password's criteria:
 - Length: between 8 and 128 characters
 - Lower case characters (OK = Yes, Cancel = No)
 - Upper case characters (OK = Yes, Cancel = No)
 - Numbers (OK = Yes, Cancel = No)
 - Special characters (OK = Yes, Cancel = No)
-
+⬇️
 The password is randomly generated and displayed in the white box under **Your Password:**
 
 See an example below:
-![alt Password generator example](assets/images/Password-Generator-Usage.mp4)
+![alt Password generator example](assets/images/Password-Generator-Usage.gif)
