@@ -30,3 +30,6 @@ You'll be presented with a series of prompts to choose the password's criteria:
 - Special characters (OK = Yes, Cancel = No)
 
 The password is randomly generated and displayed in the white box under **Your Password:**
+
+See an example below:
+![alt Password generator example](assets/images/Password-Generator-Usage.mp4)
