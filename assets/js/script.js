@@ -91,7 +91,7 @@ var upperCasedCharacters = [
 // Function to prompt user for password options
 function getPasswordOptions() {
   var passwordLength = prompt("How long do you want your password to be?");
-  while (passwordLength===null || isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
+  while (passwordLength === null || isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
     if (passwordLength === null) {
       alert("That's okay, see you again soon!");
       return;
